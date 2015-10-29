@@ -1,0 +1,11 @@
+.container {
+  padding-top: 20px;
+}
+
+.section {
+  display: none;
+}
+
+#story1, #story2 {
+  display: none;
+}
